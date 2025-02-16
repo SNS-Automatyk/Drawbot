@@ -9,9 +9,12 @@ In Inkscape:
 
   In File -> Export, select the destination path and choose the SVG extension.
 
+
 Generating G-code
+
   https://sameer.github.io/svg2gcode/#settings
 
   On the website, go to Settings -> Import/Export -> Import, and select the settings downloaded from GitHub. Next, upload the SVG file exported from Inkscape and click Generate G-Code.
+
 
 Upload the file to the plotter server (by dragging it anywhere on the start screen or using the Upload function), then select it from the Files or G-code Files section.
