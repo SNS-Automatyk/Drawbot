@@ -26,7 +26,7 @@ and I think that's all :smile:
 
 ## Circuit Diagram ##
 
-***wstaw***
+[Electrical Diagram](./Electrical_diagrams.pdf)
 
 ## Pictures of Drawbot ##
 
@@ -66,5 +66,5 @@ CONFIG_HAVE_GPIO_I2C=n
 ```
 ## Device configuration ##
 
-Download from repository printer.cfg file and paste it in Machine section in your Mainsail site.
+Download from repository `printer.cfg` file and paste it in Machine section in your Mainsail site.
 You probably have to change some parameters based on your construction (e.g. based on trapezoidal screws and microsteps set on the CNC Shield).
